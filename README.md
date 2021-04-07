@@ -1,6 +1,6 @@
 # foodshare
 
-connecting and inspiring culinary creatives and food artists
+Creating a community for culinary creatives and food artists.
 
 ## Getting Started
 
